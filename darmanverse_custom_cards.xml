@@ -11,14 +11,14 @@
 
     <card>
       <name>Triss the Spellshaper</name>
-      <set rarity="common">DMN</set>
+      <set rarity="mythic">DMN</set>
       <prop>
         <colors>UBR</colors>
-        <manacost>1UBR</manacost>
-        <cmc>4</cmc>
+        <manacost>2UBR</manacost>
+        <cmc>5</cmc>
         <type>Legendary Creature - Cat Wizard </type>
         <maintype>Creature</maintype>
-        <pt>3/4</pt>
+        <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever you cast your first instant or sorcery spell from your hand during each of your turns, mill three cards.
@@ -26,23 +26,23 @@ Whenever one or more instant or sorcery cards are put into your graveyard from y
     </card>
     <card>
       <name>Ankle the Biter</name>
-      <set rarity="common">DMN</set>
+      <set rarity="mythic">DMN</set>
       <prop>
-        <colors>WBR</colors>
-        <manacost>1RW/B</manacost>
+        <colors>BR</colors>
+        <manacost>1BR</manacost>
         <cmc>3</cmc>
-        <type>Legendary Creature - Goblin Warrior Lil Guy </type>
+        <type>Legendary Creature - Goblin Lil Guy Warrior  </type>
         <maintype>Creature</maintype>
         <pt>3/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Intimidate, first strike, lifelink. (This creature can’t be blocked except by artifact creatures and/or creatures that share a color with it.)
+      <text>Intimidate, first strike (This creature can’t be blocked except by artifact creatures and/or creatures that share a color with it.)
 Whenever a creature is put into your hand from the battlefield or the graveyard, create a tapped Treasure token. Ankle the Biter deals 1 damage to each opponent.
-Commander dash 2RW/B (Put Ankle the Biter onto the battlefield from the command zone. If you do, it gains haste, and it’s returned to the command zone at the beginning of the next end step. Activate only as a sorcery.)</text>
+Commander dash 2BR (Put Ankle the Biter onto the battlefield from the command zone. If you do, it gains haste, and it’s returned to the command zone at the beginning of the next end step. Activate only as a sorcery.)</text>
     </card>
     <card>
       <name>Beeblebum</name>
-      <set rarity="common">DMN</set>
+      <set rarity="rare">DMN</set>
       <prop>
         <colors>RG</colors>
         <manacost>4RG</manacost>
@@ -52,7 +52,54 @@ Commander dash 2RW/B (Put Ankle the Biter onto the battlefield from the command 
         <pt>7/5</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever Beeblebum or another enchantment enters the battlefield under your control, Beeblebum deals 1 damage to each opponent.</text>
+      <text>Whenever Beeblebum or another enchantment enters the battlefield, Beeblebum deals 1 damage to each opponent.</text>
+    </card>
+    <card>
+      <name>Death of the Mind</name>
+      <set rarity="rare">DMN</set>
+      <prop>
+        <colors>UBR</colors>
+        <manacost>XXUBR</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Repeat the following process X times. Search your library for an instant or sorcery card, put that card into your graveyard.
+Shuffle your library.</text>
+    </card>
+    <card>
+      <name>Warender</name>
+      <set rarity="common">DMN</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BBR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Lil Guy Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+You may pay {0} rather than pay the dash cost of the first card you dash each turn.
+
+</text>
+    </card>
+    <card>
+      <name>Beeblebum&apos;s Wrath</name>
+      <set rarity="common">DMN</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>2RG</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Sacrifice an enchantment: Beeblebum’s Wrath deals damage to target creature, planeswalker, or player equal to the sacrificed enchantment’s mana value.
+Overload 6RG (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of “target” with “each”.)
+
+“You beeble’d too far, bum.”</text>
     </card>
 
     <!-->Tokens</-->
