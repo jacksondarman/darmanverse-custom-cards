@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMN</name>
+      <longname>Darmanverse Custom Cards</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Triss the Spellshaper</name>
+      <set rarity="common">DMN</set>
+      <prop>
+        <colors>UBR</colors>
+        <manacost>1UBR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Cat Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast your first instant or sorcery spell from your hand during each of your turns, mill three cards.
+Whenever one or more instant or sorcery cards are put into your graveyard from your library, manifest the top card of your library. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it’s a creature card.)</text>
+    </card>
+    <card>
+      <name>Ankle the Biter</name>
+      <set rarity="common">DMN</set>
+      <prop>
+        <colors>WBR</colors>
+        <manacost>1RW/B</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Goblin Warrior Lil Guy </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Intimidate, first strike, lifelink. (This creature can’t be blocked except by artifact creatures and/or creatures that share a color with it.)
+Whenever a creature is put into your hand from the battlefield or the graveyard, create a tapped Treasure token. Ankle the Biter deals 1 damage to each opponent.
+Commander dash 2RW/B (Put Ankle the Biter onto the battlefield from the command zone. If you do, it gains haste, and it’s returned to the command zone at the beginning of the next end step. Activate only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Beeblebum</name>
+      <set rarity="common">DMN</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>4RG</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Enchantment Creature - Troll </type>
+        <maintype>Creature</maintype>
+        <pt>7/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Beeblebum or another enchantment enters the battlefield under your control, Beeblebum deals 1 damage to each opponent.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+
+  </cards>
+</cockatrice_carddatabase>
